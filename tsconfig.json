@@ -17,7 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "angular2-grid": [
+        "dist/angular2-grid"
+      ],
+      "angular2-grid/*": [
+        "dist/angular2-grid/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
