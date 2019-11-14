@@ -1,6 +1,6 @@
 {
   "name": "@magnal/angular2-grid",
-  "version": "0.0.1-beta",
+  "version": "4.0.0-dev.1",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
