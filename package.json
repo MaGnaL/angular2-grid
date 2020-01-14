@@ -1,6 +1,6 @@
 {
   "name": "@magnal/angular2-grid-demo",
-  "version": "4.0.0-dev.1",
+  "version": "4.0.0-dev.3",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,6 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@angular/animations": "~8.2.13",
